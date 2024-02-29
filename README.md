@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @himynameisoleg a software developer from Chicago interested in AI, machine learning and web technologies. 
-- 💻 I'm committed to writing maintainable, scalable, and secure code. 
-- 🦀 I'm currently learning Rust, a fast and safe systems programming language, to build high-performance and reliable applications. 
-- 🤖 Reach out if you want to chat about AI, Retro Games or Coffee. 
+- 👋 Hi, I’m Oleg a software engineer and technical leader from Chicago interested in AI, Recommendation Engines, and Cloud Architectures. 
+- 🦀 I'm currently learning Rust and Systems Programming.
 
 <!---
 - 👋 Hi, I’m @himynameisoleg
