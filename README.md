@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Oleg a software engineer and technical leader from Chicago interested in AI, Recommendation Engines, and Cloud Architectures. 
-- 🦀 I'm currently learning Rust and Systems Programming.
+- 👋 Hi, I’m Oleg a software engineer from Chicago.
+- 👀 I’m interested in Machine Learning, Recommendation Engines, and Cloud Architectures. 
+- 🌱 I'm currently learning Rust 🦀 and Systems Programming.
 
 <!---
 - 👋 Hi, I’m @himynameisoleg
