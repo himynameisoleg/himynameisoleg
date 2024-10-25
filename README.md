@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Oleg a software engineer from Chicago.
 - 👀 I’m interested in Machine Learning, Recommendation Engines, and Cloud Architectures. 
-- 🌱 I'm currently learing to write a Compiler in Go.
+- 🌱 I'm currently learing:
+- [x] how to write a Compiler in Go.
+- [x] how to write an Interpreter in Go.
+- [ ] how to build a Kernal in Rust.
+- [ ] how to build a bootable OS in Rust.
+
 
 <!---
 - 👋 Hi, I’m @himynameisoleg
