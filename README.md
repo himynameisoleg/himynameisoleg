@@ -1,11 +1,12 @@
 I'm a software engineer from Chicago. 
-'Currently I'm a senior enginer at [🧬 Abbott Laboratories](https://abbott.com), where I work on consent management and integrations. 
+Currently I am a senior software enginer at [🧬 Abbott Laboratories](https://abbott.com), where I work on consent management, platforms and integrations. 
 
-Previousely, I managed shopping orchestration microservices at [✈️ United Airlines](https://united.com), and developed marketting and communications applications at [💻 Accenture](https://accenture.com).
+Previousely, I managed shopping orchestration microservices at [✈️ United Airlines](https://united.com), and developed enterprise chat platforms at [💻 Accenture](https://accenture.com).
 
 I graduated with a BS in Biology from 🎓 Loyola University Chicago and an MS in CS from 🎓 Northeastern Illinois Univeristy where I did some [research into recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163). 
 
-🌱 My 2025 my learning plan includes:
+
+🌱 My 2025 learning plan includes:
   - [ ] diving into some "classical literature" with the [C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)
   - [ ] sharpenning the saw with some [advent of code](https://adventofcode.com)
   - [ ] getting low with [Rust in Action](https://www.rustinaction.com)
