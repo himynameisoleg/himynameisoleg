@@ -7,7 +7,7 @@ I graduated with a BS in Biology from 🎓 Loyola University Chicago and an MS i
 
 
 🌱 My 2025 learning plan includes:
-  - [ ] diving into some "classical literature" with the [C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)
+  - [x] diving into some "classical literature" with the [C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)
   - [ ] sharpenning the saw with some [advent of code](https://adventofcode.com)
   - [ ] getting low with [Rust in Action](https://www.rustinaction.com)
   - [ ] diving into [this wonderful blog](https://os.phil-opp.com) and learn what it take to build a [kernel and bootable OS in Rust](https://github.com/himynameisoleg/null-pointer-os)
