@@ -8,9 +8,11 @@ I graduated with a BS in Biology from 🎓 Loyola University Chicago and an MS i
 
 🌱 My 2025 learning plan includes:
   - [x] diving into some "classical literature" with the [C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)
-  - [ ] sharpenning the saw with some [advent of code](https://adventofcode.com)
-  - [ ] getting low with [Rust in Action](https://www.rustinaction.com)
+  - [x] sharpenning the saw with some [advent of code](https://adventofcode.com)
+  - [x] getting low with [Rust in Action](https://www.rustinaction.com)
+  - [ ] getting Swifty and building an iOS app using  SwiftUI, SwiftData powered by Google Gemini 
   - [ ] diving into [this wonderful blog](https://os.phil-opp.com) and learn what it take to build a [kernel and bootable OS in Rust](https://github.com/himynameisoleg/null-pointer-os)
+
 
 <!---
 - 👋 Hi, I’m Oleg a software engineer from Chicago.
