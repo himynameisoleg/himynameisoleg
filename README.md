@@ -8,11 +8,11 @@ I hold a **B.S. in Biology** from **Loyola University Chicago** and an **M.S. in
 
 ## My Ever-Growing 2025 Learning Plan  
 
--[x] Exploring some **"classical literature"** with [The C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)  
--[x] **Sharpening the saw** with [Advent of Code](https://adventofcode.com)  
--[x]  **Diving deep** with [Rust in Action](https://www.rustinaction.com)  
--[x] **Getting Swifty** by building an [iOS app](https://github.com/himynameisoleg/AIQuest) using **SwiftUI, SwiftData**, with content powered by **Google Gemini**  
--[ ] Exploring [this incredible blog](https://os.phil-opp.com) to learn what it takes to build a kernel and bootable OS in Rust
+- [x] Exploring some **"classical literature"** with [The C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)  
+- [x] **Sharpening the saw** with [Advent of Code](https://adventofcode.com)  
+- [x]  **Diving deep** with [Rust in Action](https://www.rustinaction.com)  
+- [x] **Getting Swifty** by building an [iOS app](https://github.com/himynameisoleg/AIQuest) using **SwiftUI, SwiftData**, with content powered by **Google Gemini**  
+- [ ] Exploring [this incredible blog](https://os.phil-opp.com) to learn what it takes to build a kernel and bootable OS in Rust
 
 <!---
 - 👋 Hi, I’m Oleg a software engineer from Chicago.
