@@ -1,18 +1,18 @@
-I'm a software engineer from Chicago. 
-Currently I am a senior software enginer at [Abbott Laboratories](https://abbott.com), where I work on consent management, platforms and integrations. 
+I'm **Oleg**, a software engineer from **Chicago**.  
 
-Previousely, I managed shopping orchestration microservices at [United Airlines](https://united.com), and developed enterprise chat platforms at [Accenture](https://accenture.com).
+I’m currently a **Senior Software Engineer** at [Abbott Laboratories](https://abbott.com), where I focus on **consent management** and **platform integrations**.  
 
-I graduated with a BS in Biology from Loyola University Chicago and an MS in CS from Northeastern Illinois Univeristy where I did some [research into recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163). 
+Previously, I worked on **core microservices** (shopping orchestration) at [United Airlines](https://united.com) and developed **enterprise chat platforms** at [Accenture](https://accenture.com).  
 
+I hold a **B.S. in Biology** from **Loyola University Chicago** and an **M.S. in Computer Science** from **Northeastern Illinois University**, where I conducted [research on recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163).  
 
-My 2025 learning plan includes:
-  - [x] diving into some "classical literature" with the [C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)
-  - [x] sharpenning the saw with some [advent of code](https://adventofcode.com)
-  - [x] getting low with [Rust in Action](https://www.rustinaction.com)
-  - [x] getting Swifty and building an [iOS app](https://github.com/himynameisoleg/AIQuest) using SwiftUI, SwiftData with content powered by Google Gemini
-  - [ ] diving into [this wonderful blog](https://os.phil-opp.com) and learn what it take to build a [kernel and bootable OS in Rust](https://github.com/himynameisoleg/null-pointer-os)
+## My Ever-Growing 2025 Learning Plan  
 
+-[x] Exploring some **"classical literature"** with [The C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)  
+-[x] **Sharpening the saw** with [Advent of Code](https://adventofcode.com)  
+-[x]  **Diving deep** with [Rust in Action](https://www.rustinaction.com)  
+-[x] **Getting Swifty** by building an [iOS app](https://github.com/himynameisoleg/AIQuest) using **SwiftUI, SwiftData**, with content powered by **Google Gemini**  
+-[ ] Exploring [this incredible blog](https://os.phil-opp.com) to learn what it takes to build a kernel and bootable OS in Rust
 
 <!---
 - 👋 Hi, I’m Oleg a software engineer from Chicago.
