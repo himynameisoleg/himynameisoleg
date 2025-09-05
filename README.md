@@ -4,7 +4,7 @@ Currently a Senior Software Engineer at [Abbott Laboratories](https://abbott.com
 
 Previously worked on core microservices (shopping orchestration) at [United Airlines](https://united.com) and developed enterprise platforms and web applications at [Accenture](https://accenture.com).  
 
-M.S. in Computer Science** from **Northeastern Illinois University and conducted [research on recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163).  
+M.S. in Computer Science from Northeastern Illinois University and conducted [research on recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163).  
 
 <!---
 ## My Ever-Growing 2025 Learning Plan  
