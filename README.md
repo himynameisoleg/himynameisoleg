@@ -1,10 +1,10 @@
-I'm **Oleg**, a software engineer from **Chicago**.  
+Software engineer from **Chicago**.  
 
-I’m currently a **Senior Software Engineer** at [Abbott Laboratories](https://abbott.com), where I focus on **consent management** and **platform integrations**.  
+Currently a Senior Software Engineer at [Abbott Laboratories](https://abbott.com) working on consent management applications. 
 
-Previously, I worked on **core microservices** (shopping orchestration) at [United Airlines](https://united.com) and developed **enterprise chat platforms** at [Accenture](https://accenture.com).  
+Previously worked on core microservices (shopping orchestration) at [United Airlines](https://united.com) and developed enterprise platforms and web applications at [Accenture](https://accenture.com).  
 
-I hold a **B.S. in Biology** from **Loyola University Chicago** and an **M.S. in Computer Science** from **Northeastern Illinois University**, where I conducted [research on recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163).  
+M.S. in Computer Science** from **Northeastern Illinois University** and conducted [research on recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163).  
 
 <!---
 ## My Ever-Growing 2025 Learning Plan  
