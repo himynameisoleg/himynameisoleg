@@ -6,6 +6,7 @@ Previously, I worked on **core microservices** (shopping orchestration) at [Unit
 
 I hold a **B.S. in Biology** from **Loyola University Chicago** and an **M.S. in Computer Science** from **Northeastern Illinois University**, where I conducted [research on recommendation engines](https://dl.acm.org/doi/10.1145/3603287.3656163).  
 
+<!---
 ## My Ever-Growing 2025 Learning Plan  
 
 - [x] Exploring some **"classical literature"** with [The C Programming Language](https://github.com/himynameisoleg/the-c-programming-language)  
@@ -14,7 +15,7 @@ I hold a **B.S. in Biology** from **Loyola University Chicago** and an **M.S. in
 - [x] **Getting Swifty** by building an [iOS app](https://github.com/himynameisoleg/AIQuest) using **SwiftUI, SwiftData**, with content powered by **Google Gemini**  
 - [ ] Exploring [this incredible blog](https://os.phil-opp.com) to learn what it takes to build a kernel and bootable OS in Rust
 
-<!---
+
 - 👋 Hi, I’m Oleg a software engineer from Chicago.
 - 👀 I’m interested in programming languages, low level porogramming, recommendation engines, GenAI, RAG LLMs and cloud architectures.
 - 🌱 In 2024 I learned:
